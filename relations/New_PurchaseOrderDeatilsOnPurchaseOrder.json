@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "New_PurchaseOrderDeatilsOnPurchaseOrder",
+    "Attributes": 16781312,
+    "Table": "Purchase Orders",
+    "ForeignTable": "Purchase Order Details",
+    "Fields": [
+      {
+        "Name": "Purchase Order ID",
+        "ForeignName": "Purchase Order ID"
+      }
+    ]
+  }
+}

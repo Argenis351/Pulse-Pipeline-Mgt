@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "New_TransactionTypesOnInventoryTransactiosn",
+    "Attributes": 0,
+    "Table": "Inventory Transaction Types",
+    "ForeignTable": "Inventory Transactions",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Transaction Type"
+      }
+    ]
+  }
+}

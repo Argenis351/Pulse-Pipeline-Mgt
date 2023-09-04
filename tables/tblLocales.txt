@@ -1,0 +1,15 @@
+﻿Locale	LocaleDescription
+ar	Arabian
+de	German
+dv-MV	Divehi (Maldives)
+en-CA	English (Canada)
+en-GB	English (Great Britain)
+en-US	English (United States)
+es-PA	Spanish (Panama)
+fr-CA	French (Canada)
+fr-CH	French (Switzerland)
+fr-FR	French (France)
+ja-JP	Japanese (Japan
+th-TH	Thai (Thailand)
+uk-UA	Ukrainian (Ukraine)
+zh-CN	Chinese (Simplified, PRC)

@@ -1,0 +1,62 @@
+﻿String ID	String Data	StringDataSpanish	StringDataEnglish
+2	Pulse - Sales Pipeline  Management	Gestion de canalizacion de ventas-Pulse.	Northwind Traders
+3	No se puede eliminar el inventario publicado!	No se puede eliminar el inventario publicado!	Cannot remove posted inventory!
+4	Producto en espera para completar el pedido.	Producto en espera para completar el pedido.	Back ordered product filled for Order #|
+5	Precio rebajado por debajo del costo.	Precio rebajado por debajo del costo	Discounted price below cost!
+6	Inventario Insuficiente	Inventario Insuficiente.	Insufficient inventory.
+7	Inventario Insuficiente. ¿Quieres hacer un pedido de compra?	Inventario Insuficiente. ¿Quieres hacer un pedido de compra?	Insufficient inventory. Do you want to create a purchase order?
+8	Las ordenes de compra se crearon con éxito, para los productos	Las ordenes de compra se creatron con éxito, para productos.	Purchase orders were successfully created for | products
+9	No hay productos por debajo de sus niveles de reorden.	No ay productos por debajo de sus niveles de productos.	There are no products below their respective reorder levels
+10	Debe especificar el nombre del cliente!	Debe especificar el nombre del cliente!	Must specify customer name!
+11	El reabastecimiento generará órdenes de compra para todos los productos por debajo de los niveles de inventario deseados. ¿Quieres continuar?	El reabastecimiento generará órdenes de compra para todos los productos por debajo de los niveles de inventario deseados. ¿Quieres continuar?	Restocking will generate purchase orders for all products below desired inventory levels.  Do you want to continue?
+12	No se puede crear pedido de compra. No hay proveedores listado para el producto especificado.	No se puede crear orden de compra. No hay proveedores enumerados para el producto especificado.	Cannot create purchase order.  No suppliers listed for specified product
+13	¡El precio con descuento está por debajo del costo!	¡El precio con descuento está por debajo del costo!	Discounted price is below cost!
+14	¿Quieres continuar?	¿Quieres continuar?	Do you want to continue?
+15	El pedido ya está facturado. ¿Quieres imprimir la factura?	El pedido ya está facturado. ¿Quieres imprimir la factura?	Order is already invoiced. Do you want to print the invoice?
+16	El pedido no contiene ninguna item de pedido.	El pedido no contiene ninguna línea de pedido	Order does not contain any line items
+17	¡No se puede crear la factura! No se ha asignado inventario para cada producto especificado.	¡No se puede crear la factura! No se ha asignado inventario para cada producto especificado.	Cannot create invoice!  Inventory has not been allocated for each specified product.
+18	Lo sentimos, no hay ventas en el período de tiempo especificado.	Lo sentimos, no hay ventas en el período de tiempo especificado.	Sorry, there are no sales in the specified time period
+19	Solicitud enviada para aprobacion.	Producto reabastecido con éxito. {spanish}\r\nProducto reabastecido con éxito.	Product successfully restocked.
+21	¡El producto no necesita reabastecimiento! El producto ya está en el nivel de inventario deseado.	¡El producto no necesita reabastecimiento! El producto ya está en el nivel de inventario deseado.	Product does not need restocking! Product is already at desired inventory level.
+22	¡Falló la reposición del producto!	¡Falló la reposición del producto!	Product restocking failed!
+23	¡Se ha especificado un inicio de sesión no válido!	¡Se ha especificado un inicio de sesión no válido!	Invalid login specified!
+24	Primero debe seleccionar reportado!	Primero debe seleccionar reportado!	Must first select reported!
+25	El cambio de proveedor eliminará los items de la línea de compra, ¿continuar?	El cambio de proveedor eliminará los elementos de la línea de compra, ¿continuar?	Changing supplier will remove purchase line items, continue?
+26	Las órdenes de compra se enviaron con éxito para  productos ¿Quieres ver el informe de reposición?	Las órdenes de compra se enviaron con éxito para  productos ¿Quieres ver el informe de reposición?	Purchase orders were successfully submitted for | products.  Do you want to view the restocking report?
+27	Hubo un error al intentar reabastecer los niveles de inventario.	Hubo un error al intentar reabastecer los niveles de inventario.	There was an error attempting to restock inventory levels.
+28	Los productos se reabastecieron con éxito. ¿Quieres ver el informe de reposición?	Los productos se reabastecieron con éxito. ¿Quieres ver el informe de reposición?	| product(s) were successfully restocked.  Do you want to view the restocking report?
+29	¡No puede eliminar items de compra ya registrados en el inventario!	¡No puede eliminar elementos de línea de compra ya registrados en el inventario!	You cannot remove purchase line items already posted to inventory!
+30	Se produjo un error al eliminar uno o más elementos de línea de compra.	Se produjo un error al eliminar uno o más elementos de línea de compra.	There was an error removing one or more purchase line items.
+31	No puede modificar la cantidad del producto comprado que ya se recibió o registró en el inventario.	No puede modificar la cantidad del producto comprado que ya se recibió o registró en el inventario.	You cannot modify quantity for purchased product already received or posted to inventory.
+32	No puede modificar el precio del producto comprado ya recibido o publicado en el inventario.	No puede modificar el precio del producto comprado ya recibido o publicado en el inventario.	You cannot modify price for purchased product already received or posted to inventory.
+33	El producto se ha registrado correctamente en el inventario.	El producto se ha registrado correctamente en el inventario.	Product has been successfully posted to inventory.
+34	Lo sentimos, el producto no se puede publicar correctamente en el inventario.	Lo sentimos, el producto no se puede publicar correctamente en el inventario.	Sorry, product cannot be successfully posted to inventory.
+35	Hay pedidos con este producto en espera. ¿Te gustaría llenarlos ahora?	Hay pedidos con este producto en espera. ¿Te gustaría llenarlos ahora?	There are orders with this product on back order.  Would you like to fill them now?
+36	No se puede publicar el producto en el inventario sin especificar la fecha de recepción!	No se puede publicar el producto en el inventario sin especificar la fecha de recepción!	Cannot post product to inventory without specifying received date!
+37	¿Desea publicar el producto recibido en el inventario?	¿Quieres reservar el inventario del producto?	Do you want to post received product to inventory?
+38	¿Iniciar datos de compra, pedidos e inventario?	¿Iniciar datos de compra, pedidos e inventario?	Initialize purchase, orders, and inventory data?
+39	¡Primero debe especificar el nombre del colaborador!	¡Primero debe especificar el nombre del colaborador!	Must first specify employee name!
+40	¡El usuario especificado debe iniciar sesión para aprobar la compra!	¡El usuario especificado debe iniciar sesión para aprobar la compra!	Specified user must be logged in to approve purchase!
+41	El pedido de compra debe contener elementos de línea completos antes de que pueda aprobarse	El pedido de compra debe contener elementos de línea completos antes de que pueda aprobarse\r\nEl pedido de compra debe contener elementos de línea completos antes de que pueda aprobarse	Purchase order must contain completed line items before it can be approved
+42	Lo siento, no tienes permiso para aprobar el pedido.	Lociento, no tienes permiso para aprobar el pedido.	Sorry, you do not have permission to approve purchases.
+43	Compra aprobada con éxito	Compra aprobada con éxito	Purchase successfully approved
+44	No se puede aprobar la compra.	No se puede aprobar la compra.\r\nNo se puede aprobar la compra	Purchase cannot be approved
+45	Compra enviada correctamente para su aprobación.	Compra enviada correctamente para su aprobación	Purchase successfully submitted for approval
+46	No se puede enviar la compra para su aprobación.	No se puede enviar la compra para su aprobación.	Purchase cannot be submitted for approval
+47	Lo sentimos, la orden de compra no contiene items.	Lo sentimos, la orden de compra no contiene elementos de línea.\r\nLo sentimos, la orden de compra no contiene elementos de línea	Sorry, purchase order does not contain line items
+48	¿Quieres cancelar este pedido?	¿Quieres cancelar este pedido?\r\n¿Quieres cancelar este pedido?\r\n¿Quieres cancelar este pedido?\r\n¿Quieres cancelar este pedido?	Do you want to cancel this order?
+49	Cancelar un pedido eliminará permanentemente el pedido. ¿Estas seguro que quieres cancelar?	Cancelar un pedido eliminará permanentemente el pedido. ¿Estas seguro que quieres cancelar?	Canceling an order will permanently delete the order.  Are you sure you want to cancel?
+100	Su pedido fue cancelado exitosamente.	Su pedido fue cancelado exitosamente\r\nSu pedido fue cancelado con éxito.	Your order was successfully canceled.
+101	No se puede cancelar un pedido que tiene artículos recibidos y registrados en el inventario.	No se puede cancelar un pedido que tiene artículos recibidos y registrados en el inventario.	Cannot cancel an order that has items received and posted to inventory.
+102	Se ha producido un error al intentar cancelar este pedido.	Se ha producido un error al intentar cancelar este pedido\r\nSe ha producido un error al intentar cancelar este pedido.\r\nSe ha producido un error al intentar cancelar este pedido.	There was an error trying to cancel this order.
+103	La factura de este pedido aun no se ha creado.	La factura de este pedido aun no se ha creado.	The invoice for this order has not yet been created.
+104	La información de envío no está completa. Especifique toda la información de envío y vuelva a intentarlo.	La información de envío no está completa. Especifique toda la información de envío y vuelva a intentarlo.	Shipping information is not complete.  Please specify all shipping information and try again.
+105	No se puede marcar pedido como enviado. Primero el pedido debe ser facturado.	La información de envío no está completa. Especifique toda la información de envío y vuelva a intentarlo.	Cannot mark as shipped.  Order must first be invoiced!
+106	¡No se puede cancelar un pedido que ya se ha enviado!	¡No se puede cancelar un pedido que ya se ha enviado!	Cannot cancel an order that has already shipped!
+107	Primero debe especificar el vendedor.	Primero debe especificar el vendedor	Must first specify salesperson!
+108	El pedido se marco como finalizado.	El pedido no se marco como cerrado.	Order is now marked closed.
+109	El pedido debe marcarse como enviado antes de finalizarlo.	El pedido debe marcarse como enviado antes de cerrarlo	Order must first be marked shipped before closing.
+110	Primero debe especificar la informacion de pago.	Primero debe especificar la informacion de pago	Must first specify payment information!
+111	Hubo un error al intentar reabasteser los niveles de inventario. | Los productos se reabastecieron con éxito.	Hubo un error al intentar reabasteser los niveles de inventario. Los productos se reabastecieron con éxito.\r\nHubo un error al intentar reabastecer los niveles de inventario. los productos se reabastecieron con éxito.	There was an error attempting to restock inventory levels.  | product(s) were successfully restocked.
+112	Debe proporcionar un costo unitario.	Debe proporcionar un costo unitario	You must supply a Unit Cost.
+113	Rellene el producto solicitado, N.º de pedido.	Rellene el producto solicitado, N.º de pedido.	Fill back ordered product, Order #|

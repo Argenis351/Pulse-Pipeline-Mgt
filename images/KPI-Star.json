@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "KPI-Star",
+    "FileName": "KPI-Star.png",
+    "Extension": "png",
+    "ContentHash": "454d418"
+  }
+}

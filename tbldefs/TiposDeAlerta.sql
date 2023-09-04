@@ -1,0 +1,5 @@
+﻿CREATE TABLE [TiposDeAlerta] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Alerta] VARCHAR (255),
+  [Descripcion] VARCHAR (255)
+)

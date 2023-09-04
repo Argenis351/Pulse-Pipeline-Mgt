@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "Arrow-Side",
+    "FileName": "Arrow-Side.png",
+    "Extension": "png",
+    "ContentHash": "23db53b"
+  }
+}

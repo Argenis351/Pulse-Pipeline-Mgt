@@ -1,0 +1,2 @@
+﻿SELECT Referencias.DoctorId, [Doctors Extended].NombreCompleto, Especializaciones.Especializacion, [Doctors Extended].Celular, Referencias.ClientId, Customers.NombreCompleto, Customers.Correo, Customers.Celular, Customers.TipoDeCliente
+FROM ([Doctors Extended] INNER JOIN (Referencias INNER JOIN Customers ON Referencias.ClientId = Customers.ID) ON [Doctors Extended].ID = Referencias.DoctorId) LEFT JOIN Especializaciones ON [Doctors Extended].Especialidad = Especializaciones.Id;

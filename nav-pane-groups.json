@@ -1,0 +1,676 @@
+﻿{
+  "Info": {
+    "Class": "clsDbNavPaneGroup",
+    "Description": "Navigation Pane Custom Groups",
+    "Export File Format": 1.1
+  },
+  "Items": {
+    "Categories": [
+      {
+        "Name": "Northwind Traders",
+        "Flags": 0,
+        "Position": 2,
+        "Groups": [
+          {
+            "Name": "Customers & Orders",
+            "Flags": 0,
+            "Position": 1,
+            "Objects": [
+              {
+                "Name": "Order List",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "Top Ten Orders by Sales Amount",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              }
+            ]
+          },
+          {
+            "Name": "Employees",
+            "Flags": 2,
+            "Position": 6,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Inventory & Purchasing",
+            "Flags": 0,
+            "Position": 2,
+            "Objects": [
+              {
+                "Name": "Product Details",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "Purchase Order Details",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "Purchase Order List",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              }
+            ]
+          },
+          {
+            "Name": "Reports",
+            "Flags": 0,
+            "Position": 5,
+            "Objects": [
+              {
+                "Name": "Sales Reports Dialog",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "Invoice",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "Listado-de-Dirección-de-los-Clientes",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "Listado-de-Dirección-de-los-Empleados",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "Listado-de-Telefonos-de-los-Clientes",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "Listado-de-Telefonos-de-los-Empleados",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "Top 10 Pedidos Mas Grandes",
+                "Type": -32764,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              }
+            ]
+          },
+          {
+            "Name": "Shippers",
+            "Flags": 0,
+            "Position": 4,
+            "Objects": [
+              {
+                "Name": "Shipper Details",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              }
+            ]
+          },
+          {
+            "Name": "Suppliers",
+            "Flags": 0,
+            "Position": 3,
+            "Objects": [
+            ]
+          },
+          {
+            "Name": "Supporting Objects",
+            "Flags": 2,
+            "Position": 7,
+            "Objects": [
+              {
+                "Name": "00-Startup-Screen",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 57
+              },
+              {
+                "Name": "Active Orders Subform for Home",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 43
+              },
+              {
+                "Name": "Customer Orders Subform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 44
+              },
+              {
+                "Name": "Employee Orders Subform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 45
+              },
+              {
+                "Name": "Home",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 72
+              },
+              {
+                "Name": "Inventory to reorder Subform for Home",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 46
+              },
+              {
+                "Name": "Order Subform for Order Details",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 47
+              },
+              {
+                "Name": "Product Category Sales by Month",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 48
+              },
+              {
+                "Name": "Product Sales by Category Chart",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 49
+              },
+              {
+                "Name": "Product Sales by Total Revenue Chart",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 50
+              },
+              {
+                "Name": "Product Sales Qty by Employee Chart",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 51
+              },
+              {
+                "Name": "Product Transactions Subform for Product Details",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 52
+              },
+              {
+                "Name": "Purchases Subform for Purchase Order Details",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 53
+              },
+              {
+                "Name": "Receiving Subform for Purchase Order Details",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 54
+              },
+              {
+                "Name": "Sales Analysis Form",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 55
+              },
+              {
+                "Name": "Sales Analysis Subform for Home Chart",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 56
+              },
+              {
+                "Name": "Supplier Products Subform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 58
+              },
+              {
+                "Name": "Supplier Purchases Subform",
+                "Type": -32768,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 59
+              },
+              {
+                "Name": "AutoExec",
+                "Type": -32766,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 60
+              },
+              {
+                "Name": "Delete All Data",
+                "Type": -32766,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 65
+              },
+              {
+                "Name": "CustomerOrders",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 66
+              },
+              {
+                "Name": "DomainFunctionWrappers",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 67
+              },
+              {
+                "Name": "ErrorHandling",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 61
+              },
+              {
+                "Name": "Inventory",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 68
+              },
+              {
+                "Name": "Privileges",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 69
+              },
+              {
+                "Name": "PurchaseOrders",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 70
+              },
+              {
+                "Name": "RecordsetWrapper",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 71
+              },
+              {
+                "Name": "Utilities",
+                "Type": -32761,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 62
+              },
+              {
+                "Name": "Employee Privileges",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 0
+              },
+              {
+                "Name": "Employees",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 1
+              },
+              {
+                "Name": "Inventory Transaction Types",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 63
+              },
+              {
+                "Name": "Inventory Transactions",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 2
+              },
+              {
+                "Name": "Invoices",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 3
+              },
+              {
+                "Name": "Order Details",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 4
+              },
+              {
+                "Name": "Order Details Status",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 5
+              },
+              {
+                "Name": "Orders",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 6
+              },
+              {
+                "Name": "Orders Status",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 7
+              },
+              {
+                "Name": "Orders Tax Status",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 64
+              },
+              {
+                "Name": "Privileges",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 8
+              },
+              {
+                "Name": "Products",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 9
+              },
+              {
+                "Name": "Purchase Order Details",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 10
+              },
+              {
+                "Name": "Purchase Order Status",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 11
+              },
+              {
+                "Name": "Purchase Orders",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 12
+              },
+              {
+                "Name": "Sales Reports",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 13
+              },
+              {
+                "Name": "Shippers",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 14
+              },
+              {
+                "Name": "Strings",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 15
+              },
+              {
+                "Name": "Suppliers",
+                "Type": 1,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 16
+              },
+              {
+                "Name": "Customers Extended",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 17
+              },
+              {
+                "Name": "Employees Extended",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 18
+              },
+              {
+                "Name": "Inventory",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 19
+              },
+              {
+                "Name": "Inventory on Hold",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 20
+              },
+              {
+                "Name": "Inventory on Order",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 21
+              },
+              {
+                "Name": "Inventory Purchased",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 22
+              },
+              {
+                "Name": "Inventory Sold",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 23
+              },
+              {
+                "Name": "Invoice Data",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 24
+              },
+              {
+                "Name": "Order Details Extended",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 25
+              },
+              {
+                "Name": "Order Price Totals",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 26
+              },
+              {
+                "Name": "Order Subtotals",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 27
+              },
+              {
+                "Name": "Order Summary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 28
+              },
+              {
+                "Name": "Product Category Sales by Date",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 29
+              },
+              {
+                "Name": "Product Orders",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 30
+              },
+              {
+                "Name": "Product Purchases",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 31
+              },
+              {
+                "Name": "Product Sales by Category",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 32
+              },
+              {
+                "Name": "Product Sales Qty by Employee and Date",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 33
+              },
+              {
+                "Name": "Product Sales Total by Date",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 34
+              },
+              {
+                "Name": "Product Transactions",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 42
+              },
+              {
+                "Name": "Products on Back Order",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 35
+              },
+              {
+                "Name": "Purchase Details Extended",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 36
+              },
+              {
+                "Name": "Purchase Price Totals",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 37
+              },
+              {
+                "Name": "Purchase Summary",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 38
+              },
+              {
+                "Name": "Sales Analysis",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 39
+              },
+              {
+                "Name": "Shippers Extended",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 40
+              },
+              {
+                "Name": "Suppliers Extended",
+                "Type": 5,
+                "Flags": 0,
+                "Icon": 0,
+                "Position": 41
+              }
+            ]
+          },
+          {
+            "Name": "Unassigned Objects",
+            "Flags": 4,
+            "Position": 8,
+            "Objects": [
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

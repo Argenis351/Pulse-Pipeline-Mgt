@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "New_SuppliersOnPurchaseOrder",
+    "Attributes": 33554432,
+    "Table": "Suppliers",
+    "ForeignTable": "Purchase Orders",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Supplier ID"
+      }
+    ]
+  }
+}

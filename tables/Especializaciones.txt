@@ -1,0 +1,39 @@
+﻿Id	Especializacion	Descripcion	UpdatedAt	UpdatedBy
+5	Otros		06/06/2023 12:52:44	
+7	Asistente de Dr. Ortopedia		14/06/2023 7:24:26	SysAdmin
+8	Centro de Resonancia		14/06/2023 7:24:26	SysAdmin
+9	Cirugía Ortopedia 		14/06/2023 7:24:26	SysAdmin
+10	Consultor		14/06/2023 7:24:26	SysAdmin
+11	Dermoestetica Clínica		14/06/2023 7:24:26	SysAdmin
+12	Distribuidor		14/06/2023 7:24:26	SysAdmin
+13	Encargada de compras		14/06/2023 7:24:26	SysAdmin
+14	Encargado de equipos de fisioterapia		14/06/2023 7:24:26	SysAdmin
+15	Especialista Medicina Física		14/06/2023 7:24:26	SysAdmin
+16	Especilista en medicina para el dolor		14/06/2023 7:24:26	SysAdmin
+17	Estudiante		14/06/2023 7:24:26	SysAdmin
+18	Fisiatría 		14/06/2023 7:24:26	SysAdmin
+19	Fisioterapeuta		14/06/2023 7:24:26	SysAdmin
+20	Fisioterapia		14/06/2023 7:24:26	SysAdmin
+21	Internista		14/06/2023 7:24:26	SysAdmin
+22	Licenciado en Ortopedia		14/06/2023 7:24:26	SysAdmin
+23	Medicina General 		14/06/2023 7:24:26	SysAdmin
+24	Medico Deportivo 		14/06/2023 7:24:26	SysAdmin
+25	Ortopeda		14/06/2023 7:24:26	SysAdmin
+26	Ortopeda y Columna		14/06/2023 7:24:26	SysAdmin
+27	Ortopeda y Traumatólogo		14/06/2023 7:24:26	SysAdmin
+28	Ortopedia 		14/06/2023 7:24:26	SysAdmin
+29	Ortopedia - Cirugía de Rodilla		14/06/2023 7:24:26	SysAdmin
+30	Ortopedia - Oncología 		14/06/2023 7:24:26	SysAdmin
+31	Ortopedia y Traumatología		14/06/2023 7:24:26	SysAdmin
+32	Ortopedia y Traumatología - Cirugía - Artroscopía		14/06/2023 7:24:26	SysAdmin
+33	Ortopedia y Traumatología - Cirugía de Cadera, Cirugía de Rodilla, Reemplazo Articular de Rodilla y Cadera		14/06/2023 7:24:26	SysAdmin
+34	Ortopedia y Traumatología - Cirugía de Mano y Extremidad Superior 		14/06/2023 7:24:26	SysAdmin
+35	Ortopedia y Traumatología - Cirugía de Rodilla y Hombro 		14/06/2023 7:24:26	SysAdmin
+36	Ortopedia y Traumatología - Cirugía En Hombro		14/06/2023 7:24:26	SysAdmin
+37	Ortopedia y Traumatología - Medicina Deportiva Ortopédica - Cirugía de Rodilla		14/06/2023 7:24:26	SysAdmin
+38	Ortopedia y Traumatología, Artroscopia de Rodilla		14/06/2023 7:24:26	SysAdmin
+39	Ortopedia y Traumatología, Artroscopia de Rodilla, Cirugía Articular		14/06/2023 7:24:26	SysAdmin
+40	Periodista		14/06/2023 7:24:26	SysAdmin
+41	Residente de Ortopedia 		14/06/2023 7:24:26	SysAdmin
+42	Terapeuta Ocupacional		14/06/2023 7:24:26	SysAdmin
+43	Traumatología		14/06/2023 7:24:26	SysAdmin

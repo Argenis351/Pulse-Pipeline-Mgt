@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "schedule_Job2",
+    "FileName": "schedule_Job2.png",
+    "Extension": "png",
+    "ContentHash": "7b44b74"
+  }
+}

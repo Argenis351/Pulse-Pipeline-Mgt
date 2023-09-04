@@ -1,0 +1,6 @@
+﻿Status ID	Status Name	NameEnglish
+0	Cotización	Quoted
+1	Nuevo	New
+2	Facturado	Invoiced
+3	Enviado	Shipped
+4	Finalizado	Closed

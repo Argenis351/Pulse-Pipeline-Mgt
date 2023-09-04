@@ -1,0 +1,33 @@
+﻿SettingID	SettingLabel	SettingName	SettingValue	SettingLongValue	Notes	UserEditables
+1		TaxRate	85		[percent*1000] Rate charged to taxable customers by Northwind Traders, to support regional settings.	False
+4		LastResetDate	2023-03-30		[date]	False
+5		ShowWelcome	-1		[boolean] Show the Welcome Screen	False
+6		TaxRate_Vendors	90		[percent*1000] Rate paid by Northwind Traders to its vendors, to support regional settings.	False
+8		HtmlEmailBody		<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<title>Page Title</title>\r\n</head>\r\n<body>\r\n\r\n<p>Dear<strong>&nbsp;</strong><strong>Staff</strong>,<br />\r\n<br />\r\nAs part of our ongoing efforts to maintain an accurate and up-to-date asset register, we kindly request your assistance in reviewing your company assets.<br />\r\n<br />\r\nThe attached asset register contains a list of all assets currently assigned to you. This includes, but is not limited to, laptops, mobile phones, tools, equipment, and any other company-owned items in your possession or control.<br />\r\n<br />\r\nPlease take a few moments to go through the list and ensure that all assigned assets are accurate and correctly assigned to you. If you find any discrepancies or have any questions, please do not hesitate to reach out to our administrative team at admin@nevadaconstruction.co.uk<br />\r\n<br />\r\nYour prompt attention to this matter is crucial to help us maintain an accurate record of our company&#39;s assets.<br />\r\n<br />\r\nKind Regards,<br />\r\n<br />\r\nAccounts Team<br />\r\nFor Nevada Construction Ltd</p>\r\n\r\n</body>\r\n</html>		False
+9		SystemName	Pulse			False
+10		SystemType	Sales Pipeline  Management			False
+11		LogIt	-1			False
+12		LoadingZone	n/a			False
+13		StartUpForm	00-Home			False
+14		TrustingMessage		<p>Welcome to <strong>[SystemName]</strong>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Normally when we open a Ms Access application on our machine for the first time, Ms Access as a security measure, blocks the file to avoid any malicious code (i.e. Macros, vba code, malware, etc) all to protect you.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>In your case, you know the source of this application (Target Innovations) and need to get Ms access to trust it by allowing access to open it.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Please if you receive a security warning while opening our application, enable it by clicking&nbsp; &#39;Options...&#39; on the Message Bar and select&nbsp;&nbsp;<strong><span style="color:#e74c3c">&#39;Enable this content&#39;</span></strong>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Alternatively, to open the database from a <strong>Trusted Location, </strong>follow the steps in this video in the link below.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Video Reference:&nbsp;<a href="https://youtu.be/1eum51_KvvM">Microsoft Access: Trusted Locations</a></p>\r\n\r\n<p>https://youtu.be/1eum51_KvvM</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Article Reference:&nbsp;<a href="https://support.microsoft.com/en-us/office/decide-whether-to-trust-a-database-828ce4e9-1f38-4f4b-89c4-81bb0fcda8a4">Decide whether to trust a database</a></p>\r\n\r\n<p>https://support.microsoft.com/en-us/office/decide-whether-to-trust-a-database-828ce4e9-1f38-4f4b-89c4-81bb0fcda8a4</p>		False
+15	No. de dias para iniciar Alerta antes de la visita	VisitAlertPriorDays	3		Number of days prior Event, when alert should start popping up	True
+16	No. de dias para iniciar Alerta antes de le cobro	CobrosAlertPriorDays	5		Number of days prior Event, when alert should start popping up	True
+17	No. de dias para iniciar Alerta antes de la compra	CompraAlertPriorDays	7		Number of days prior Event, when alert should start popping up	True
+18	No. de dias para Alertar despues de la fecha de la venta	PostVentaFollowUpDays	30		Number of days prior Event, when alert should start popping up	True
+19	No. de dias para iniciar Alerta antes de la fecha de pago de la regalia	RegaliasVentaAlerPriorDays	5		Number of days prior Event, when alert should start popping up	True
+20	No. de dias para iniciar Alerta antes de la fecha para contacto con el cliente	ContactarAlertPriorDays	3			True
+21	No. de dias de prestamo de muestra	MuestraDiasDePrestamo	30		Default number of days a doctor should keep equipment	True
+22	No. de dias para iniciar Alerta antes de la fecha de recebimiento de la muestra	MuestraAlertPriorDays	5		Number of days prior to the due date, alert should trigger	True
+23	No. de dias de espera del  del Pedido de Compra	POFollowUpDays	5			True
+24	No. de dias para Alertar antes de la fecha de espera del pedido de compra	POAlertPriorDays	1			True
+25	No. de dias de para se hacer el pago de la regalia	RegaliasVentaFollowUpDays	15			True
+26	Locale International Setttings	LocaleX	es-PA			False
+27	No. de dias para iniciar Alerta antes del Vencimiento de la Cotización	CotizacionAlertPriorDays	5			False
+28	No. de dias para Alertar despues de la fecha de creacion de la Cotización	CotizacionFollowUpDays	30			False
+29		AlquilerFollowUpDays				False
+30		ITBMS	ITBMS (7%)			False
+31		Notas	Notas			False
+32		Descripcion de Notas	Estos precios son por la compra de cada dispositivo por separado, si desea adquirir los cuatro (4) equipos juntos, le ofrecemos un descuento adicional al ya realizado.			False
+33		Términos y condiciones	Términos y condiciones			False
+34		Descripcion  de términos y condiciones		*\tCotización válida por treinta (30) días.\r\n*\tPrecios individuales no incluyen ITBMS.\r\n*\tFormas de pago:\r\nTarjeta de débito o crédito\r\nSolo Cheques locales a nombre de Grupo Alice, S.A. ACH a nombre Grupo Alice, S.A. Cuenta Corriente del banco General N° 03-38-01-101280-1\r\n*\tPor cada cheque devuelto se cobrará recargo por gastos administrativos.		False
+35		Mensaje de agradecimiento	¡Gracias por su Confianza!			True

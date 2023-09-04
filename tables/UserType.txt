@@ -1,0 +1,5 @@
+﻿ID	UserType	Description	UpdatedAt	UpdatedBy	AccessRights
+1	Admin	FULL Rights to Administer all Setup Tables	12/05/2023 23:03:44	luizestevo	Full Rights
+2	RegularUser	PARTIAL Rights - Submission Rights	26/06/2023	luizestevo	Partial Rights
+3	ViewOnlyUser	VIEW Only Rights	26/06/2023	luizestevo	View Only
+4	Supervisor	Full Access to All forms with Approval Rights	26/06/2023 22:18:35	luizestevo	Approval Rights

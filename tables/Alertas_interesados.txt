@@ -1,0 +1,99 @@
+﻿Id	CodigoDelAlerta	CodigoDelDestinatario	CodigoDelInteresado	Recibido	UpdatedBy	UpdatedAt
+1	1	2	2	False		04/07/2023 9:31:05
+2	2	2	2	False		07/04/2023 14:54:02
+3	3	2	2	False	nbarrios	05/07/2023 9:10:51
+4	4	2	2	False	nbarrios	05/07/2023 9:16:01
+5	5	2	2	False		05/07/2023 9:54:45
+6	6	2	2	False		05/07/2023 11:23:06
+7	7	2	2	False		05/07/2023 11:26:14
+8	8	2	1	False		05/07/2023 11:27:39
+9	8	2	2	False		05/07/2023 11:27:39
+10	8	2	3	False		05/07/2023 11:27:39
+11	8	2	9	False		05/07/2023 11:27:39
+12	8	2	10	False		05/07/2023 11:27:39
+13	9	9	9	False	luizestevo	05/07/2023 22:18:05
+14	10	9	9	False	luizestevo	05/07/2023 23:20:27
+15	11	9	9	False	luizestevo	09/07/2023 14:49:39
+16	12	9	9	False	luizestevo	06/07/2023 0:04:02
+17	13	9	9	False		06/07/2023 5:36:49
+18	14	9	9	False	luizestevo	06/07/2023 11:08:25
+19	15	9	9	False		06/07/2023 11:26:05
+20	16	9	9	False		06/07/2023 11:43:46
+21	17	10	10	False		07/06/2023 20:58:10
+22	18	9	9	False		07/06/2023 21:17:07
+23	19	3	3	False		07/06/2023 21:21:02
+24	20	3	1	False		07/06/2023 21:21:39
+25	20	3	2	False		07/06/2023 21:21:39
+26	20	3	3	False		07/06/2023 21:21:39
+27	20	3	9	False		07/06/2023 21:21:39
+28	20	3	10	False		07/06/2023 21:21:39
+29	21	1	1	False		07/06/2023 21:24:55
+30	22	10	10	False		07/06/2023 21:28:28
+31	23	2	2	False		07/06/2023 21:31:53
+32	24	1	1	False		07/06/2023 21:35:48
+33	25	1	1	False		07/06/2023 21:37:57
+34	26	9	9	False		07/07/2023 5:10:16
+35	27	1	1	False	nzapata	07/07/2023 6:55:15
+36	28	1	1	False	nzapata	07/07/2023 7:03:37
+37	29	1	1	False	luizestevo	09/07/2023 14:52:09
+38	30	1	1	False		09/07/2023 14:57:43
+39	31	1	1	False	luizestevo	09/07/2023 15:00:35
+40	32	1	1	False	luizestevo	09/07/2023 15:02:02
+41	33	9	9	False	luizestevo	09/07/2023 15:11:12
+42	34	9	1	False	luizestevo	09/07/2023 15:11:38
+43	34	9	2	False	luizestevo	09/07/2023 15:11:38
+44	34	9	3	False	luizestevo	09/07/2023 15:11:38
+45	34	9	9	True	luizestevo	13/07/2023 23:23:09
+46	34	9	10	False	luizestevo	09/07/2023 15:11:38
+47	35	2	2	False	luizestevo	09/07/2023 16:29:26
+48	36	1	1	False	luizestevo	09/07/2023 16:29:40
+52	31	1	10	False	nzapata	09/07/2023 16:46:37
+53	31	1	9	True	luizestevo	13/07/2023 23:27:11
+54	37	2	2	False	nbarrios	12/07/2023 17:29:44
+55	38	9	9	False	luizestevo	13/07/2023 12:19:27
+56	39	9	9	False	luizestevo	13/07/2023 14:13:51
+57	40	9	9	False	luizestevo	13/07/2023 14:18:05
+59	41	9	1	False	luizestevo	13/07/2023 15:26:02
+60	42	1	1	False		13/07/2023 15:42:40
+61	43	9	9	False	luizestevo	13/07/2023 22:37:30
+62	44	9	9	False	luizestevo	13/07/2023 22:38:31
+63	44	9	1	False	luizestevo	13/07/2023 22:38:31
+64	45	9	9	False	luizestevo	13/07/2023 22:40:53
+65	45	9	1	False	luizestevo	13/07/2023 22:40:53
+66	46	9	9	False	luizestevo	13/07/2023 22:41:49
+67	46	9	1	False	luizestevo	13/07/2023 22:41:49
+68	41	9	3	False	luizestevo	13/07/2023 23:28:26
+69	41	9	9	False	luizestevo	13/07/2023 23:28:55
+70	47	9	9	False	luizestevo	14/07/2023 6:24:16
+71	48	9	9	False	luizestevo	14/07/2023 6:28:57
+72	49	9	9	False	luizestevo	14/07/2023 6:58:54
+73	50	9	9	False		14/07/2023 7:23:31
+74	51	9	9	False	luizestevo	14/07/2023 18:33:42
+75	52	9	9	False	luizestevo	14/07/2023 18:54:39
+76	53	9	9	False	luizestevo	14/07/2023 19:32:34
+77	54	9	9	False	luizestevo	14/07/2023 19:34:22
+78	55	9	9	False	luizestevo	19/07/2023 9:48:08
+79	55	9	1	True	Nzapata	19/07/2023 9:53:51
+80	56	9	9	False	luizestevo	19/07/2023 9:48:11
+81	56	9	1	True	Nzapata	19/07/2023 9:54:25
+82	57	9	9	False	luizestevo	19/07/2023 9:48:14
+83	57	9	1	True	Nzapata	19/07/2023 9:54:17
+84	58	9	9	False	luizestevo	19/07/2023 9:48:17
+85	58	9	1	True	Nzapata	19/07/2023 9:54:09
+86	59	9	9	False	Luizestevo	19/07/2023 9:55:13
+87	59	9	1	False	Luizestevo	19/07/2023 9:55:13
+88	60	9	9	False	Luizestevo	28/07/2023 13:52:54
+89	61	9	9	False	Luizestevo	08/03/2023 14:43:19
+90	62	9	9	False	Luizestevo	22/08/2023 14:55:04
+91	63	9	9	False	Luizestevo	23/08/2023 22:50:40
+92	64	9	9	False	Luizestevo	24/08/2023 11:48:05
+93	65	2	2	False	luizestevo	24/08/2023 13:21:19
+94	66	1	1	False	luizestevo	24/08/2023 13:25:33
+95	67	3	3	False	luizestevo	24/08/2023 13:28:36
+96	68	3	1	False	luizestevo	24/08/2023 13:29:08
+97	68	3	2	False	luizestevo	24/08/2023 13:29:08
+98	68	3	3	False	luizestevo	24/08/2023 13:29:08
+99	68	3	9	False	luizestevo	24/08/2023 13:29:08
+100	68	3	10	False	luizestevo	24/08/2023 13:29:08
+101	69	2	2	False	luizestevo	24/08/2023 13:40:25
+102	70	9	9	False	luizestevo	24/08/2023 14:07:24

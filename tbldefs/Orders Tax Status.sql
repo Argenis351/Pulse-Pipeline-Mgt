@@ -1,0 +1,4 @@
+﻿CREATE TABLE [Orders Tax Status] (
+  [ID] UNSIGNED BYTE  CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Tax Status Name] VARCHAR (50)
+)

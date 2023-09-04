@@ -1,0 +1,22 @@
+﻿{
+  "Info": {
+    "Class": "clsDbDocument",
+    "Description": "Database Documents Properties (DAO)"
+  },
+  "Items": {
+    "Databases": {
+      "SummaryInfo": {
+        "Author": "Luiz Estevo",
+        "Title": "Northwind"
+      }
+    },
+    "Tables": {
+      "Invoice Data": {
+        "Description": "(Criteria) Record source for Invoice report. Based on six tables. Includes expressions that concatenate first and last employee name and that use the CCur function to calculate extended price."
+      },
+      "Order Subtotals": {
+        "Description": "Record source for other queries. Uses Sum and CCur functions to compute subtotal for each order."
+      }
+    }
+  }
+}

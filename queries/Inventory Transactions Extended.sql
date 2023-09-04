@@ -1,0 +1,2 @@
+﻿SELECT [Inventory Transactions].ID AS TransactionID, [Inventory Transactions].*, [Transaction Types].*, Inventory.*, IIf([Transaction Types].[Add/Remove]="Addition",[Inventory Transactions]!Quantity,-([Inventory Transactions]!Quantity)) AS [Actual Quantity]
+FROM Inventory INNER JOIN ([Inventory Transactions] LEFT JOIN [Transaction Types] ON [Inventory Transactions].[Transaction Type] = [Transaction Types].ID) ON Inventory.ID = [Inventory Transactions].[transaction Item];

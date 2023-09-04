@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "New_EmployeesOnPurchaseOrder",
+    "Attributes": 33554432,
+    "Table": "Employees",
+    "ForeignTable": "Purchase Orders",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Created By"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "work-in-progress",
+    "FileName": "work-in-progress.png",
+    "Extension": "png",
+    "ContentHash": "ce98cb1"
+  }
+}

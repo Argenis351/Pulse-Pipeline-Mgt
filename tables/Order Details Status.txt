@@ -1,0 +1,7 @@
+﻿Status ID	Status Name	NameEnglish
+0	None	None
+1	Reservado	Allocated
+2	Facturado	Invoiced
+3	Enviado	Shipped
+4	Solicitado	On Order
+5	No disponible	No Stock

@@ -1,0 +1,152 @@
+﻿{
+  "Info": {
+    "AddinVersion": "4.0.15",
+    "AccessVersion": "16.0 64-bit"
+  },
+  "Options": {
+    "ExportFolder": "C:\\Users\\argenis\\OneDrive\\Target-Innovations\\02-Completed-Projects\\Hadar - Medical Devides - June 1st - 30d\\Pulse-Pipeline-Mgt",
+    "ShowDebug": false,
+    "UseFastSave": true,
+    "UseMergeBuild": false,
+    "UseGitIntegration": false,
+    "SavePrintVars": true,
+    "ExportPrintSettings": {
+      "Orientation": true,
+      "PaperSize": true,
+      "Duplex": false,
+      "PrintQuality": false,
+      "DisplayFrequency": false,
+      "Collate": false,
+      "Resolution": false,
+      "DisplayFlags": false,
+      "Color": false,
+      "Copies": false,
+      "ICMMethod": false,
+      "DefaultSource": false,
+      "Scale": false,
+      "ICMIntent": false,
+      "FormName": false,
+      "PaperLength": false,
+      "DitherType": false,
+      "MediaType": false,
+      "PaperWidth": false,
+      "TTOption": false
+    },
+    "SaveQuerySQL": true,
+    "ForceImportOriginalQuerySQL": false,
+    "SaveTableSQL": true,
+    "StripPublishOption": true,
+    "SanitizeColors": 1,
+    "SanitizeLevel": 2,
+    "ExtractThemeFiles": true,
+    "TablesToExportData": {
+      "Alertas": {
+        "Format": "Tab Delimited"
+      },
+      "Alertas_interesados": {
+        "Format": "Tab Delimited"
+      },
+      "BusinessRoles": {
+        "Format": "Tab Delimited"
+      },
+      "Employee Privileges": {
+        "Format": "Tab Delimited"
+      },
+      "Especializaciones": {
+        "Format": "Tab Delimited"
+      },
+      "Importance": {
+        "Format": "Tab Delimited"
+      },
+      "Inventory Transaction Types": {
+        "Format": "Tab Delimited"
+      },
+      "Inventory Transactions": {
+        "Format": "Tab Delimited"
+      },
+      "Invoices": {
+        "Format": "Tab Delimited"
+      },
+      "KPIs": {
+        "Format": "Tab Delimited"
+      },
+      "Order Details": {
+        "Format": "Tab Delimited"
+      },
+      "Order Details Status": {
+        "Format": "Tab Delimited"
+      },
+      "Orders Status": {
+        "Format": "Tab Delimited"
+      },
+      "Orders Tax Status": {
+        "Format": "Tab Delimited"
+      },
+      "Privileges": {
+        "Format": "Tab Delimited"
+      },
+      "Purchase Order Details": {
+        "Format": "Tab Delimited"
+      },
+      "Purchase Order Status": {
+        "Format": "Tab Delimited"
+      },
+      "Purchase Orders": {
+        "Format": "Tab Delimited"
+      },
+      "Referencias": {
+        "Format": "Tab Delimited"
+      },
+      "ReportControlCenter": {
+        "Format": "Tab Delimited"
+      },
+      "Sales Reports": {
+        "Format": "Tab Delimited"
+      },
+      "Strings": {
+        "Format": "Tab Delimited"
+      },
+      "SysChangeLog": {
+        "Format": "Tab Delimited"
+      },
+      "SysEvents": {
+        "Format": "Tab Delimited"
+      },
+      "SysSettings": {
+        "Format": "Tab Delimited"
+      },
+      "tblLocales": {
+        "Format": "Tab Delimited"
+      },
+      "TiposDeAlerta": {
+        "Format": "Tab Delimited"
+      },
+      "Transaction Types": {
+        "Format": "Tab Delimited"
+      },
+      "UserSettings": {
+        "Format": "Tab Delimited"
+      },
+      "UserType": {
+        "Format": "Tab Delimited"
+      },
+      "USysRegInfo": {
+        "Format": "Tab Delimited"
+      },
+      "USysRibbons": {
+        "Format": "Tab Delimited"
+      }
+    },
+    "RunBeforeExport": "",
+    "RunAfterExport": "",
+    "RunBeforeBuild": "",
+    "RunAfterBuild": "",
+    "RunBeforeMerge": "",
+    "RunAfterMerge": "",
+    "ShowVCSLegacy": true,
+    "HashAlgorithm": "SHA256",
+    "UseShortHash": true,
+    "BreakOnError": false,
+    "PreserveRubberDuckID": false
+  }
+}

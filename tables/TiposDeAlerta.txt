@@ -1,0 +1,10 @@
+﻿ID	Alerta	Descripcion
+1	Post-Venta	
+2	Producto	
+3	Visita	
+4	Cobros	
+5	Contactar	
+6	Regalias	
+7	Reuniones	
+8	Pedido de Compra	
+9	Cotizacion	

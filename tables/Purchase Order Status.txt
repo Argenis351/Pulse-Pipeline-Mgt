@@ -1,0 +1,5 @@
+﻿Status ID	Status	NameEnglish
+0	Nuevo	New
+1	Enviado	Submitted
+2	Aprobado	Approved
+3	Finalizado	Closed

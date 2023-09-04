@@ -1,0 +1,765 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+Pulse-Pipeline-Mgt.accdb
+VCS Version 4.0.15
+Full Path: C:\Users\argenis\OneDrive\Target-Innovations\02-Completed-Projects\Hadar - Medical Devides - June 1st - 30d\Pulse-Pipeline-Mgt.accdb
+Export Folder: C:\Users\argenis\OneDrive\Target-Innovations\02-Completed-Projects\Hadar - Medical Devides - June 1st - 30d\Pulse-Pipeline-Mgt\
+Performing Full Export
+04/09/2023 15:19:17
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No saved specs found in this database.
+No imex specs found in this database.
+No table data macros found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  Pulse-Pipeline-Mgt.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Pulse
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[7]
+-------------------------------------
+Exporting proj properties...  
+  Current Project Properties (Access)
+[2]
+-------------------------------------
+Exporting shared images...    
+  1_TRUESTIM _ GENESYS-01
+  TRUESTIM _ GENESYS-01
+  work-in-progress
+  kisspng-gear-icon-gears-png-file-5a7793b2397863_3659814115177860
+  AcademiaIcon
+  schedule_Job2
+  Doctor-removebg-preview
+  Cargo-Express-removebg-preview
+  1_NW2Logo256
+  NW2Logo64
+  NW2Logo256
+  14
+  14-nobg
+  Arrow-Up
+  Arrow-Side
+  Arrow-Down
+  Clients
+  kpi-hammer
+  KPI-Star
+  KPI-Product
+  1_KPI-Product
+  2_TRUESTIM _ GENESYS-01
+[22]
+-------------------------------------
+Exporting themes...           
+  Office Theme
+[1]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[51]
+-------------------------------------
+Exporting tables...           
+  Alertas
+    Sanitized in 0,009 seconds.
+  Alertas (SQL)
+  Alertas_interesados
+    Sanitized in 0,006 seconds.
+  Alertas_interesados (SQL)
+  BusinessRoles
+    Sanitized in 0,004 seconds.
+  BusinessRoles (SQL)
+  Calls
+    Sanitized in 0,015 seconds.
+  Calls (SQL)
+  Customers
+    Sanitized in 0,012 seconds.
+  Customers (SQL)
+  Employee Privileges
+    Sanitized in 0,005 seconds.
+  Employee Privileges (SQL)
+  Employees
+    Sanitized in 0,008 seconds.
+  Employees (SQL)
+  Especializaciones
+    Sanitized in 0,004 seconds.
+  Especializaciones (SQL)
+  Importance
+    Sanitized in 0,002 seconds.
+  Importance (SQL)
+  Inventory Transaction Types
+    Sanitized in 0,003 seconds.
+  Inventory Transaction Types (SQL)
+  Inventory Transactions
+    Sanitized in 0,004 seconds.
+  Inventory Transactions (SQL)
+  Invoices
+    Sanitized in 0,003 seconds.
+  Invoices (SQL)
+  KPIs
+    Sanitized in 0,004 seconds.
+  KPIs (SQL)
+  Order Details
+    Sanitized in 0,006 seconds.
+  Order Details (SQL)
+  Order Details Status
+    Sanitized in 0,003 seconds.
+  Order Details Status (SQL)
+  Orders
+    Sanitized in 0,008 seconds.
+  Orders (SQL)
+  Orders Status
+    Sanitized in 0,003 seconds.
+  Orders Status (SQL)
+  Orders Tax Status
+    Sanitized in 0,003 seconds.
+  Orders Tax Status (SQL)
+  PaymentSchedule
+    Sanitized in 0,004 seconds.
+  PaymentSchedule (SQL)
+  Privileges
+    Sanitized in 0,005 seconds.
+  Privileges (SQL)
+  Products
+    Sanitized in 0,007 seconds.
+  Products (SQL)
+  Purchase Order Details
+    Sanitized in 0,004 seconds.
+  Purchase Order Details (SQL)
+  Purchase Order Status
+    Sanitized in 0,003 seconds.
+  Purchase Order Status (SQL)
+  Purchase Orders
+    Sanitized in 0,006 seconds.
+  Purchase Orders (SQL)
+  Referencias
+    Sanitized in 0,003 seconds.
+  Referencias (SQL)
+  ReportControlCenter
+    Sanitized in 0,003 seconds.
+  ReportControlCenter (SQL)
+  Sales Reports
+    Sanitized in 0,003 seconds.
+  Sales Reports (SQL)
+  Shippers
+    Sanitized in 0,010 seconds.
+  Shippers (SQL)
+  Strings
+    Sanitized in 0,005 seconds.
+  Strings (SQL)
+  Suppliers
+    Sanitized in 0,010 seconds.
+  Suppliers (SQL)
+  SysChangeLog
+    Sanitized in 0,004 seconds.
+  SysChangeLog (SQL)
+  SysEvents
+    Sanitized in 0,005 seconds.
+  SysEvents (SQL)
+  SysSettings
+    Sanitized in 0,004 seconds.
+  SysSettings (SQL)
+  tblLocales
+    Sanitized in 0,003 seconds.
+  tblLocales (SQL)
+  TiposDeAlerta
+    Sanitized in 0,003 seconds.
+  TiposDeAlerta (SQL)
+  Transaction Types
+    Sanitized in 0,004 seconds.
+  Transaction Types (SQL)
+  UserSettings
+    Sanitized in 0,005 seconds.
+  UserSettings (SQL)
+  UserType
+    Sanitized in 0,005 seconds.
+  UserType (SQL)
+  Visits
+    Sanitized in 0,009 seconds.
+  Visits (SQL)
+[39]
+-------------------------------------
+Exporting queries...          
+  01-Doctor-Client-Reference-List
+    Sanitized in 0,006 seconds.
+  01-Doctor-Client-Reference-List (SQL)
+  02-Doctor-Reference-List
+    Sanitized in 0,003 seconds.
+  02-Doctor-Reference-List (SQL)
+  03-Listados-muestras
+    Sanitized in 0,003 seconds.
+  03-Listados-muestras (SQL)
+  04-Vists-Extended
+    Sanitized in 0,004 seconds.
+  04-Vists-Extended (SQL)
+  05-All-Alerts-Combined
+    Sanitized in 0,002 seconds.
+  05-All-Alerts-Combined (SQL)
+  05-Listado-de-Alertas-Cobros
+    Sanitized in 0,002 seconds.
+  05-Listado-de-Alertas-Cobros (SQL)
+  05-Listado-de-Alertas-Contactar
+    Sanitized in 0,002 seconds.
+  05-Listado-de-Alertas-Contactar (SQL)
+  05-Listado-de-Alertas-Cotizacion
+    Sanitized in 0,002 seconds.
+  05-Listado-de-Alertas-Cotizacion (SQL)
+  05-Listado-De-Alertas-Interesados
+    Sanitized in 0,002 seconds.
+  05-Listado-De-Alertas-Interesados (SQL)
+  05-Listado-de-Alertas-Muestras
+    Sanitized in 0,002 seconds.
+  05-Listado-de-Alertas-Muestras (SQL)
+  05-Listado-de-Alertas-Pedido-de-Compra
+    Sanitized in 0,004 seconds.
+  05-Listado-de-Alertas-Pedido-de-Compra (SQL)
+  05-Listado-de-Alertas-Post-Venta
+    Sanitized in 0,002 seconds.
+  05-Listado-de-Alertas-Post-Venta (SQL)
+  05-Listado-de-Alertas-Regalias
+    Sanitized in 0,002 seconds.
+  05-Listado-de-Alertas-Regalias (SQL)
+  05-Listado-de-Alertas-Visitas
+    Sanitized in 0,004 seconds.
+  05-Listado-de-Alertas-Visitas (SQL)
+  05-Listado-de-Todos-Alertas
+    Sanitized in 0,003 seconds.
+  05-Listado-de-Todos-Alertas (SQL)
+  06-Kpi-Extended
+    Sanitized in 0,003 seconds.
+  06-Kpi-Extended (SQL)
+  06-Regresar-Producto
+    Sanitized in 0,003 seconds.
+  06-Regresar-Producto (SQL)
+  07-KIP-total-equipos-alquilados
+    Sanitized in 0,002 seconds.
+  07-KIP-total-equipos-alquilados (SQL)
+  07-KIP-total-equipos-vendidos
+    Sanitized in 0,002 seconds.
+  07-KIP-total-equipos-vendidos (SQL)
+  07-KIP-total-sales
+    Sanitized in 0,002 seconds.
+  07-KIP-total-sales (SQL)
+  07-KPI-Cotizaciones-realizadas-por-empleado
+    Sanitized in 0,003 seconds.
+  07-KPI-Cotizaciones-realizadas-por-empleado (SQL)
+  07-KPI-Number-of-visits-by-employee
+    Sanitized in 0,002 seconds.
+  07-KPI-Number-of-visits-by-employee (SQL)
+  08-Total-De-Las-Ventas
+    Sanitized in 0,004 seconds.
+  08-Total-De-Las-Ventas (SQL)
+  09-Listado-de-muestras
+    Sanitized in 0,003 seconds.
+  09-Listado-de-muestras (SQL)
+  10- Productos-alquilados-por-clientes
+    Sanitized in 0,003 seconds.
+  10- Productos-alquilados-por-clientes (SQL)
+  11-number-of-months-clients-were-referenced
+    Sanitized in 0,003 seconds.
+  11-number-of-months-clients-were-referenced (SQL)
+  12- Regalias-Por-Mes
+    Sanitized in 0,003 seconds.
+  12- Regalias-Por-Mes (SQL)
+  12- Regalias-Por-Mes1
+    Sanitized in 0,003 seconds.
+  12- Regalias-Por-Mes1 (SQL)
+  13- Listados-Cotizaciones
+    Sanitized in 0,004 seconds.
+  13- Listados-Cotizaciones (SQL)
+  Calls Chart Source
+    Sanitized in 0,002 seconds.
+  Calls Chart Source (SQL)
+  Calls Extended
+    Sanitized in 0,008 seconds.
+  Calls Extended (SQL)
+  Customers Extended
+    Sanitized in 0,007 seconds.
+  Customers Extended (SQL)
+  Doctors
+    Sanitized in 0,004 seconds.
+  Doctors (SQL)
+  Doctors Extended
+    Sanitized in 0,002 seconds.
+  Doctors Extended (SQL)
+  Employees Extended
+    Sanitized in 0,005 seconds.
+  Employees Extended (SQL)
+  Informe-Visitas
+    Sanitized in 0,005 seconds.
+  Informe-Visitas (SQL)
+  Inventory
+    Sanitized in 0,005 seconds.
+  Inventory (SQL)
+  Inventory Extended
+    Sanitized in 0,002 seconds.
+  Inventory Extended (SQL)
+  Inventory on Hold
+    Sanitized in 0,002 seconds.
+  Inventory on Hold (SQL)
+  Inventory on Order
+    Sanitized in 0,002 seconds.
+  Inventory on Order (SQL)
+  Inventory Purchased
+    Sanitized in 0,003 seconds.
+  Inventory Purchased (SQL)
+  Inventory Sold
+    Sanitized in 0,002 seconds.
+  Inventory Sold (SQL)
+  Inventory Transactions Extended
+    Sanitized in 0,001 seconds.
+  Inventory Transactions Extended (SQL)
+  Invoice Data
+    Sanitized in 0,006 seconds.
+  Invoice Data (SQL)
+  Listado - Total de ventas
+    Sanitized in 0,003 seconds.
+  Listado - Total de ventas (SQL)
+  MisDatos
+    Sanitized in 0,002 seconds.
+  MisDatos (SQL)
+  Open Calls
+    Sanitized in 0,002 seconds.
+  Open Calls (SQL)
+  Order Details Extended
+    Sanitized in 0,003 seconds.
+  Order Details Extended (SQL)
+  Order Price Totals
+    Sanitized in 0,002 seconds.
+  Order Price Totals (SQL)
+  Order Subtotals
+    Sanitized in 0,002 seconds.
+  Order Subtotals (SQL)
+  Order Summary
+    Sanitized in 0,003 seconds.
+  Order Summary (SQL)
+  Order Summary-xxx
+    Sanitized in 0,003 seconds.
+  Order Summary-xxx (SQL)
+  Patient Extended
+    Sanitized in 0,006 seconds.
+  Patient Extended (SQL)
+  Product Category Sales by Date
+    Sanitized in 0,002 seconds.
+  Product Category Sales by Date (SQL)
+  Product Orders
+    Sanitized in 0,003 seconds.
+  Product Orders (SQL)
+  Product Purchases
+    Sanitized in 0,003 seconds.
+  Product Purchases (SQL)
+  Product Sales by Category
+    Sanitized in 0,002 seconds.
+  Product Sales by Category (SQL)
+  Product Sales Qty by Employee and Date
+    Sanitized in 0,005 seconds.
+  Product Sales Qty by Employee and Date (SQL)
+  Product Sales Total by Date
+    Sanitized in 0,004 seconds.
+  Product Sales Total by Date (SQL)
+  Product Transactions
+    Sanitized in 0,002 seconds.
+  Product Transactions (SQL)
+  Products on Back Order
+    Sanitized in 0,002 seconds.
+  Products on Back Order (SQL)
+  Purchase Details Extended
+    Sanitized in 0,002 seconds.
+  Purchase Details Extended (SQL)
+  Purchase Price Totals
+    Sanitized in 0,002 seconds.
+  Purchase Price Totals (SQL)
+  Purchase Summary
+    Sanitized in 0,003 seconds.
+  Purchase Summary (SQL)
+  Purchase-Approvers-List
+    Sanitized in 0,002 seconds.
+  Purchase-Approvers-List (SQL)
+  qryDateInLocale
+    Sanitized in 0,001 seconds.
+  qryDateInLocale (SQL)
+  Sales Analysis
+    Sanitized in 0,005 seconds.
+  Sales Analysis (SQL)
+  Shippers Extended
+    Sanitized in 0,003 seconds.
+  Shippers Extended (SQL)
+  Suppliers Extended
+    Sanitized in 0,002 seconds.
+  Suppliers Extended (SQL)
+  Top Ten Orders by Sales Amount
+    Sanitized in 0,003 seconds.
+  Top Ten Orders by Sales Amount (SQL)
+[70]
+-------------------------------------
+Exporting forms...            
+  05-Customer-Details
+    Sanitized in 0,059 seconds.
+  Receiving Subform for Purchase Order Details
+    Sanitized in 0,008 seconds.
+  Purchase Order Details
+    Sanitized in 0,034 seconds.
+  Purchases Subform for Purchase Order Details
+    Sanitized in 0,008 seconds.
+  Order Details
+    Sanitized in 0,081 seconds.
+  Shipper Details
+    Sanitized in 0,067 seconds.
+  Order Subform for Order Details
+    Sanitized in 0,025 seconds.
+  07-Especializacion-Details
+    Sanitized in 0,023 seconds.
+  Inventory Supplier Items Subform
+    Sanitized in 0,012 seconds.
+  Inventory Detail Transactions Subform
+    Sanitized in 0,015 seconds.
+  Supplier Products Subform
+    Sanitized in 0,008 seconds.
+  Calls Datasheet Subform
+    Sanitized in 0,017 seconds.
+  sb-01-Client-Reference-List subform
+    Sanitized in 0,006 seconds.
+  Employee Orders Subform
+    Sanitized in 0,017 seconds.
+  Supplier Purchases Subform
+    Sanitized in 0,009 seconds.
+  Customer Orders Subform
+    Sanitized in 0,015 seconds.
+  Order List
+    Sanitized in 0,020 seconds.
+  Inventory List
+    Sanitized in 0,018 seconds.
+  Calls by Status Chart
+    Sanitized in 0,010 seconds.
+  Subformulario 05-Listado-de-Alertas
+    Sanitized in 0,008 seconds.
+  13-Suplidores
+    Sanitized in 0,083 seconds.
+  04-Employee-List
+    Sanitized in 0,021 seconds.
+  Product Sales by Category Chart
+    Sanitized in 0,008 seconds.
+  Sales Analysis Form
+    Sanitized in 0,009 seconds.
+  Product Category Sales by Month
+    Sanitized in 0,009 seconds.
+  sbPaymentSchedule
+    Sanitized in 0,008 seconds.
+  Inventory to reorder Subform for Home
+    Sanitized in 0,007 seconds.
+  Active Orders Subform for Home
+    Sanitized in 0,010 seconds.
+  Home
+    Sanitized in 0,021 seconds.
+  08-Call-Details
+    Sanitized in 0,052 seconds.
+  Product Details
+    Sanitized in 0,058 seconds.
+  Product Transactions Subform for Product Details
+    Sanitized in 0,012 seconds.
+  sb-05-Listado-de-Alertas
+    Sanitized in 0,008 seconds.
+  Sales Analysis Subform for Home Chart
+    Sanitized in 0,007 seconds.
+  16-Add New Client
+    Sanitized in 0,004 seconds.
+  00-Work-In-Progress
+    Sanitized in 0,003 seconds.
+  15-Alert-List
+    Sanitized in 0,026 seconds.
+  11-Visit-List
+    Sanitized in 0,061 seconds.
+  Purchase Order List
+    Sanitized in 0,019 seconds.
+  03-Listados-muestras
+    Sanitized in 0,010 seconds.
+  Product Sales Qty by Employee Chart
+    Sanitized in 0,008 seconds.
+  Product Sales by Total Revenue Chart
+    Sanitized in 0,009 seconds.
+  sb-01-Client-Reference-List
+    Sanitized in 0,019 seconds.
+  05-Customer-List
+    Sanitized in 0,102 seconds.
+  sb-02-Doctor-Reference-List
+    Sanitized in 0,017 seconds.
+  06-Doctors-List
+    Sanitized in 0,052 seconds.
+  03-Business-Roles
+    Sanitized in 0,015 seconds.
+  06-Doctor-Details
+    Sanitized in 0,069 seconds.
+  Filter Details
+    Sanitized in 0,040 seconds.
+  Add Related Calls
+    Sanitized in 0,016 seconds.
+  04-Employee-Details
+    Sanitized in 0,030 seconds.
+  11-Visit-Details
+    Sanitized in 0,044 seconds.
+  Sales Reports Dialog
+    Sanitized in 0,011 seconds.
+  00-Home
+    Sanitized in 0,059 seconds.
+  00-Login
+    Sanitized in 0,013 seconds.
+  11-Report-Center
+    Sanitized in 0,020 seconds.
+  00-Welcome
+    Sanitized in 0,009 seconds.
+  00-SysSettings
+    Sanitized in 0,006 seconds.
+  01-Setting-Nav-Bar
+    Sanitized in 0,012 seconds.
+  02-Change-Log
+    Sanitized in 0,018 seconds.
+  frm_TimePicker
+
+-------------------------------------
+WARNING: Found 6 unclosed blocks after sanitizing C:\Users\argenis\AppData\Local\Temp\VBA3489.tmp.
+Source: modSanitize.SanitizeFile
+-------------------------------------
+    Sanitized in 0,010 seconds.
+  00-Startup-Screen
+    Sanitized in 0,010 seconds.
+  08-Call-List
+    Sanitized in 0,061 seconds.
+  00-KPI-Display
+    Sanitized in 0,010 seconds.
+  17-KPI-Setup
+    Sanitized in 0,018 seconds.
+[65]
+-------------------------------------
+Exporting macros...           
+  Delete All Data
+    Sanitized in 0,001 seconds.
+  AutoExec
+    Sanitized in 0,001 seconds.
+[2]
+-------------------------------------
+Exporting reports...          
+  Productos-Alquilados
+
+-------------------------------------
+WARNING: Found 5 unclosed blocks after sanitizing C:\Users\argenis\AppData\Local\Temp\VBA3661.tmp.
+Source: modSanitize.SanitizeFile
+-------------------------------------
+    Sanitized in 0,012 seconds.
+  Invoice-Alquiler
+    Sanitized in 0,036 seconds.
+  Listado-de-Dirección-de-los-Empleados
+    Sanitized in 0,027 seconds.
+  Listado-de-Telefonos-de-los-Empleados
+    Sanitized in 0,017 seconds.
+  Invoice
+    Sanitized in 0,053 seconds.
+  Copy Of Invoice
+    Sanitized in 0,047 seconds.
+  Top 10 Pedidos Mas Grandes
+    Sanitized in 0,014 seconds.
+  Listado-Regalias-Por-Mes
+    Sanitized in 0,021 seconds.
+  Listado-de-Dirección-de-los-Clientes
+    Sanitized in 0,019 seconds.
+  Listado-Total-De-Ventas
+
+-------------------------------------
+WARNING: Found 5 unclosed blocks after sanitizing C:\Users\argenis\AppData\Local\Temp\VBA395B.tmp.
+Source: modSanitize.SanitizeFile
+-------------------------------------
+    Sanitized in 0,020 seconds.
+  Listado-de-Telefonos-de-los-Clientes
+    Sanitized in 0,012 seconds.
+  Copia de Quote
+    Sanitized in 0,032 seconds.
+  Informe-Visitas
+
+-------------------------------------
+WARNING: Found 5 unclosed blocks after sanitizing C:\Users\argenis\AppData\Local\Temp\VBA3A2A.tmp.
+Source: modSanitize.SanitizeFile
+-------------------------------------
+    Sanitized in 0,013 seconds.
+  Listado-de-muestras
+
+-------------------------------------
+WARNING: Found 5 unclosed blocks after sanitizing C:\Users\argenis\AppData\Local\Temp\VBA3A59.tmp.
+Source: modSanitize.SanitizeFile
+-------------------------------------
+    Sanitized in 0,011 seconds.
+  Cotización
+    Sanitized in 0,049 seconds.
+  Listado-Cotizaciones
+
+-------------------------------------
+WARNING: Found 5 unclosed blocks after sanitizing C:\Users\argenis\AppData\Local\Temp\VBA3B39.tmp.
+Source: modSanitize.SanitizeFile
+-------------------------------------
+    Sanitized in 0,024 seconds.
+  Copy Of Invoice 1
+    Sanitized in 0,035 seconds.
+[17]
+-------------------------------------
+Exporting table data...       
+  Alertas
+  Alertas_interesados
+  BusinessRoles
+  Employee Privileges
+  Especializaciones
+  Importance
+  Inventory Transaction Types
+  Inventory Transactions
+  Invoices
+  KPIs
+  Order Details
+  Order Details Status
+  Orders Status
+  Orders Tax Status
+  Privileges
+  Purchase Order Details
+  Purchase Order Status
+  Purchase Orders
+  Referencias
+  ReportControlCenter
+  Sales Reports
+  Strings
+  SysChangeLog
+  SysEvents
+  SysSettings
+  tblLocales
+  TiposDeAlerta
+  Transaction Types
+  UserSettings
+  UserType
+[30]
+-------------------------------------
+Exporting modules...          
+  CustomerOrders
+  RegistryLibrary
+  Inventory
+  Privileges
+  RecordsetWrapper
+  ErrorHandling
+  PurchaseOrders
+  cAlert
+  DomainFunctionWrappers
+  Utilities
+  ExportControlImageLib
+  App_Utilities_Libray
+  cLogger
+  GlobalVariablesLibrary
+  modNlsDateAndTime
+  modSampleUsage
+[16]
+-------------------------------------
+Exporting relations...        
+  New_EmployeePriviligesforEmployees
+  New_EmployeePriviligesLookup
+  New_EmployeesOnOrders
+  New_EmployeesOnPurchaseOrder
+  New_InventoryTransactionsOnPurchaseOrders
+  New_OrderDetails
+  New_OrderInvoice
+  New_OrderStatus
+  New_OrderStatusLookup
+  New_ProductOnInventoryTransaction
+  New_ProductOnPurchaseOrderDetails
+  New_ProductsOnOrders
+  New_PuchaseOrdersonInventoryTransactions
+  New_PurchaseOrderDeatilsOnPurchaseOrder
+  New_PurchaseOrderStatusLookup
+  New_ShipperOnOrder
+  New_SuppliersOnPurchaseOrder
+  New_TaxStatusOnOrders
+  New_TransactionTypesOnInventoryTransactiosn
+  OrdersInventory Transactions
+[20]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[4]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[8]
+-------------------------------------
+Done. (16,04 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Forms                         65        5,41
+Queries                       70        3,71
+Tables                        39        1,88
+Reports                       17        1,40
+Themes                        1         0,88
+Table Data                    30        0,48
+Modules                       16        0,41
+Nav Pane Groups               8         0,37
+Relations                     20        0,33
+Shared Images                 22        0,28
+Doc Properties                4         0,26
+DB Properties                 51        0,18
+Macros                        2         0,07
+DB Connections                0         0,05
+VBE References                7         0,05
+Project                       1         0,04
+Table Data Macros             0         0,04
+VB Project                    1         0,03
+Proj Properties               2         0,03
+Hidden Attributes             0         0,02
+VBE Forms                     0         0,00
+IMEX Specs                    0         0,00
+Saved Specs                   0         0,00
+--------------------------------------------------
+TOTALS:                       356       15,90
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+App.SaveAsText()              154       2,85
+Read File Bytes               292       2,81
+Sanitize File                 154       2,08
+Convert to JSON               5411      1,52
+Extract Theme                 1         0,80
+App.ExportXML()               39        0,76
+Increment Progress            1187      0,65
+Scan DB Objects               1         0,35
+Write File                    457       0,35
+Export Table Data as TDF      30        0,24
+Read File                     275       0,21
+Save Table SQL                39        0,21
+Save Query SQL                70        0,19
+Compute SHA256                730       0,15
+Get File Property Hash        258       0,13
+Load Stream from File         16        0,13
+Console Updates               8         0,11
+Read File DevMode             82        0,10
+Verify Path                   689       0,08
+Sanitize XML                  39        0,08
+Get Modified Date             259       0,08
+Format XML                    39        0,08
+Export VBE Module             16        0,07
+Get VBA Hash                  98        0,06
+Check for linked table        39        0,04
+Write Binary File             22        0,02
+Save Stream to File           16        0,01
+Delete File                   18        0,01
+Quick Count Objects           1         0,01
+Quick Count Files             1         0,01
+Create Folder                 10        0,00
+Enc. Windows-1252 as utf-8    16        0,00
+Export Theme                  1         0,00
+Copy Stream                   16        0,00
+--------------------------------------------------
+Other Operations                        1,85
+--------------------------------------------------
+
+

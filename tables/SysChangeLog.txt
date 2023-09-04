@@ -1,0 +1,4 @@
+﻿ID	Version	ReleaseDate	Requester	Description
+1	0.1.28	28/02/2023	Nairon	Inicion de la sesion de pruebas
+2	1.36	07/07/2023	Nairon	Sesion #3 de Pruebas
+3	3.1.0	24/08/2023	Nairon	Arreglos de la impresion de Facturas y Cotizaciones

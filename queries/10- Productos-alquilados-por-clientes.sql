@@ -1,0 +1,3 @@
+﻿SELECT [Customers Extended].NombreCompleto, [Customers Extended].TipoDeCliente, Orders.[Order Date], Orders.OrderType, Products.[Product Name], [Order Details].Quantity, [Customers Extended].NombreCompleto AS Client, [Order Details].NrDaysRental, DateAdd("d",[NrDaysRental],[Order Date]) AS [Date End], Orders.[Order Date] AS StartDate
+FROM [Customers Extended] INNER JOIN (Products INNER JOIN (Orders INNER JOIN [Order Details] ON Orders.[Order ID] = [Order Details].[Order ID]) ON Products.ID = [Order Details].[Product ID]) ON [Customers Extended].ID = Orders.[Customer ID]
+WHERE (((Orders.OrderType)="Alquiler"));

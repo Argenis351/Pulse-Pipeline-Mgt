@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "Cargo-Express-removebg-preview",
+    "FileName": "Cargo-Express-removebg-preview.png",
+    "Extension": "png",
+    "ContentHash": "2909010"
+  }
+}

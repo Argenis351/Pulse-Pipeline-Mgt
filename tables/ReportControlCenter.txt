@@ -1,0 +1,15 @@
+﻿ID	ReportName	Employee	Client	OrderType	Product	DateRange	ShowOnReportCenter
+1	Listado-de-Dirección-de-los-Clientes	False	True	False	False	False	True
+2	Listado-de-Telefonos-de-los-Clientes	False	True	False	False	False	True
+3	Listado-de-Dirección-de-los-Empleados	True	False	False	False	False	True
+4	Listado-de-Telefonos-de-los-Empleados	True	False	False	False	False	True
+5	Informe-Visitas	True	True	False	False	True	True
+6	Invoice	False	False	False	False	False	False
+7	Invoice-Alquiler	False	False	False	False	False	False
+8	Listado-de-muestras	False	True	False	False	True	True
+9	Listado-Total-De-Ventas	False	True	False	True	True	True
+11	Productos-Alquilados	False	True	False	True	True	True
+12	Cotización	False	False	False	False	False	False
+13	Top 10 Pedidos Mas Grandes	False	False	False	False	False	True
+14	Listado-Regalias-Por-Mes	False	True	True	True	True	False
+15	Listado-Cotizaciones	False	True	True	False	True	True

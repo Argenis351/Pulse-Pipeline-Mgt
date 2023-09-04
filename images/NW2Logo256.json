@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "NW2Logo256",
+    "FileName": "NW2Logo256.png",
+    "Extension": "png",
+    "ContentHash": "df2e97e"
+  }
+}

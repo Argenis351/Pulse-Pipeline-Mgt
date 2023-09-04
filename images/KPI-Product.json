@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "KPI-Product",
+    "FileName": "KPI-Product.svg",
+    "Extension": "svg",
+    "ContentHash": "d21dab6"
+  }
+}

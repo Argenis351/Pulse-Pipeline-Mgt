@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSharedImage",
+    "Description": "Shared Image Gallery Item"
+  },
+  "Items": {
+    "Name": "Arrow-Down",
+    "FileName": "Arrow-Down.png",
+    "Extension": "png",
+    "ContentHash": "08492ef"
+  }
+}

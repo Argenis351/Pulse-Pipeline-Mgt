@@ -1,0 +1,4 @@
+﻿ID	Description	Add/Remove	UpdatedAt	UpdatedBy
+1	Addition	Addition		
+2	Removal	Removal		
+3	Shrinkage	Removal		

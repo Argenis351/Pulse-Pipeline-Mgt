@@ -1,0 +1,2 @@
+﻿SELECT [Order Details].*, IIf([AbsoluteDiscount]=0,CCur(([Quantity]*GetNrDaysRental([NrDaysRental]))*[Unit Price]*(1-[Discount])),CCur(([Quantity]*GetNrDaysRental([NrDaysRental]))*[Unit Price]-Nz([AbsoluteDiscount],0))) AS [Extended Price], [Order Details Status].[Status Name]
+FROM Products INNER JOIN ([Order Details] LEFT JOIN [Order Details Status] ON [Order Details].[Status ID] = [Order Details Status].[Status ID]) ON Products.ID = [Order Details].[Product ID];

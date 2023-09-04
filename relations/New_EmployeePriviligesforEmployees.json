@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "New_EmployeePriviligesforEmployees",
+    "Attributes": 16777216,
+    "Table": "Employees",
+    "ForeignTable": "Employee Privileges",
+    "Fields": [
+      {
+        "Name": "ID",
+        "ForeignName": "Employee ID"
+      }
+    ]
+  }
+}

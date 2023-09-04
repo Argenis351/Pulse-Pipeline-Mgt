@@ -1,0 +1,6 @@
+﻿ID	Type Name	NameEnglish
+1	Comprado	Purchased
+2	Vendido	Sold
+3	Reservado	On Hold
+4	Desperdiciado	Waste
+5	Muestra	Sample

@@ -1,0 +1,4 @@
+﻿CREATE TABLE [Importance] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [Importance] VARCHAR (255)
+)

@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "New_OrderStatus",
+    "Attributes": 33554432,
+    "Table": "Orders Status",
+    "ForeignTable": "Orders",
+    "Fields": [
+      {
+        "Name": "Status ID",
+        "ForeignName": "Status ID"
+      }
+    ]
+  }
+}

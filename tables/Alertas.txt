@@ -1,0 +1,67 @@
+﻿ID	TipoDeAlerta	CodigoDelGenerador	Mensaje	FechaDelEvento	FechaDeAlarma	CodigoDelDestinatario	FechaLimite	Importancia	Posponer	UpdatedBy	UpdatedAt
+1	3	6	Visita con medico Alexander Alessandría en 07/04/2023	04/07/2023	04/07/2023	2	04/07/2023	1			04/07/2023 9:31:05
+2	9	4	Cotizacao: Recuerdo del Pedido no.: 4	07/04/2023 9:28:03	08/03/2023 9:28:03	2	0:00:00	1			07/04/2023 14:54:02
+3	3	7	Visita con medico Abel Leguisamo en 07/08/2023	08/07/2023	08/07/2023	2	04/07/2023	1		nbarrios	05/07/2023 9:10:51
+4	5	5	Follow-up pendiente para Comunicacion No.:5 en 07/05/2023 09:15:18 del Cliente: 	05/07/2023 9:15:18	12/07/2023	2	0:00:00	1		nbarrios	05/07/2023 9:16:01
+5	1	11	Follow-up de venda pendiente para Pedido No.:11 en 07/05/2023 09:53:37 del Cliente: Abel Leguisamo	05/07/2023 9:53:37	12/07/2023 9:53:37	2	0:00:00	1			05/07/2023 9:54:45
+6	5	6	Follow-up pendiente para Comunicacion No.:6 en 07/10/2023 11:22:30 del Cliente: Donald Duck	10/07/2023 11:22:30	12/07/2023	2	0:00:00	1			05/07/2023 11:23:06
+7	1	13	Follow-up de venda pendiente para Pedido No.:13 en 07/05/2023 11:25:01 del Cliente: Abdiel Ortiz	05/07/2023 11:25:01	12/07/2023 11:25:01	2	0:00:00	1			05/07/2023 11:26:14
+8	4	13	Cobro pendiente para Pedido No.:13 en 07/05/2023 11:25:01 del Cliente: 	05/07/2023 11:25:01	06/07/2023	2	0:00:00	2			05/07/2023 11:27:39
+9	5	7	Follow-up pendiente para Comunicacion No.:7 en 2023-07-05 10:17:44 PM del Cliente: 	05/07/2023 22:17:44	21/07/2023	9	0:00:00	1		luizestevo	05/07/2023 22:18:05
+10	5	1	Follow-up pendiente para Comunicacion No.:1 en 07/19/2023 del Cliente: Maria Isabel Reyes	06/07/2023	12/07/2023	9	0:00:00	1		luizestevo	13/07/2023 20:42:49
+11	5	2	Follow-up pendiente para Comunicacion No.:2 en 2023-07-12 del Cliente: Joseph Velez	12/07/2023	14/07/2023	9	0:00:00	1		luizestevo	05/07/2023 23:21:03
+12	1	20	Follow-up de venda pendiente para Pedido No.:20 en 2023-07-06 12:00:23 AM del Cliente: Alfredo Du Boris	06/07/2023 0:00:23	13/07/2023 0:00:23	9	0:00:00	1		luizestevo	06/07/2023 0:04:02
+13	9	22	Cotizacao: Recuerdo del Pedido no.: 22	06/07/2023 5:30:41	05/08/2023 5:30:41	9	0:00:00	1			06/07/2023 5:36:51
+14	1	28	Follow-up de venda pendiente para Pedido No.:28 en 2023-07-06 11:06:35 AM del Cliente: Spider Man	06/07/2023 11:06:35	05/08/2023 11:06:35	9	0:00:00	1			06/07/2023 11:15:50
+15	1	32	Follow-up de venda pendiente para Pedido No.:32 en 2023-07-06 11:22:31 AM del Cliente: Spider Man	06/07/2023 11:22:31	13/07/2023 11:22:31	9	0:00:00	1			06/07/2023 11:36:24
+16	1	34	Follow-up de venda pendiente para Pedido No.:34 en 2023-07-06 11:42:50 AM del Cliente: Spider Man	06/07/2023 11:42:50	13/07/2023 11:42:50	9	0:00:00	1			06/07/2023 11:43:46
+17	1	42	Follow-up de venda pendiente para Pedido No.:42 en 06/07/2023 20:54:43 del Cliente: Molieta Odilce	07/06/2023 20:54:43	13/07/2023 20:54:43	10	0:00:00	1			07/06/2023 20:58:10
+18	1	48	Follow-up de venda pendiente para Pedido No.:48 en 06/07/2023 21:09:26 del Cliente: Joseph Velez	07/06/2023 21:09:26	13/07/2023 21:09:26	9	0:00:00	1			07/06/2023 21:17:07
+19	1	51	Follow-up de venda pendiente para Pedido No.:51 en 06/07/2023 21:19:39 del Cliente: Nairon Barrios	07/06/2023 21:19:39	13/07/2023 21:19:39	3	0:00:00	1			07/06/2023 21:21:02
+20	4	51	Cobro pendiente para Pedido No.:51 en 06/07/2023 21:19:39 del Cliente: 	07/06/2023 21:19:39	25/07/2023	3	0:00:00	2			07/06/2023 21:23:01
+21	1	53	Follow-up de venda pendiente para Pedido No.:53 en 06/07/2023 21:23:42 del Cliente: Abdiel Ortiz	07/06/2023 21:23:42	08/05/2023 21:23:42	1	0:00:00	1			07/06/2023 21:24:55
+22	1	55	Follow-up de venda pendiente para Pedido No.:55 en 06/07/2023 21:26:19 del Cliente: Rosana Estevo	07/06/2023 21:26:19	13/07/2023 21:26:19	10	0:00:00	1			07/06/2023 21:28:28
+23	1	54	Follow-up de venda pendiente para Pedido No.:54 en 06/07/2023 21:25:59 del Cliente: Joseph Velez	07/06/2023 21:25:59	13/07/2023 21:25:59	2	0:00:00	1			07/06/2023 21:31:53
+24	1	60	Follow-up de venda pendiente para Pedido No.:60 en 06/07/2023 21:34:54 del Cliente: Ariel Saldaña	07/06/2023 21:34:54	08/05/2023 21:34:54	1	0:00:00	1			07/06/2023 21:35:48
+25	1	59	Follow-up de venda pendiente para Pedido No.:59 en 06/07/2023 21:34:26 del Cliente: Carmen Vazquez	07/06/2023 21:34:26	08/05/2023 21:34:26	1	0:00:00	1			07/06/2023 21:37:57
+26	1	75	Follow-up de venda pendiente para Pedido No.:75 en 2023-07-07 4:55:08 AM del Cliente: Bolívar Franco	07/07/2023 4:55:08	14/07/2023 4:55:08	9	0:00:00	1			07/07/2023 5:10:16
+27	1	78	Follow-up de venda pendiente para Pedido No.:78 en 2023-07-07 6:53:56 AM del Cliente: Bolívar Franco	07/07/2023 6:53:56	06/08/2023 6:53:56	1	0:00:00	1		nzapata	07/07/2023 6:55:15
+28	1	89	Follow-up de venda pendiente para Pedido No.:89 en 2023-07-07 7:03:10 AM del Cliente: Bolovar Franco	07/07/2023 7:03:10	14/07/2023 7:03:10	1	0:00:00	1		nzapata	07/07/2023 7:03:37
+31	8	8	Pedido de Compra No.8 - Fecha Estimada : 07/10/2023	10/07/2023	10/07/2023	1		1		luizestevo	09/07/2023 15:00:35
+32	8	7	Pedido de Compra No.7 - Fecha Estimada : 07/11/2023	11/07/2023	11/07/2023	1		1		luizestevo	09/07/2023 15:01:23
+33	1	93	Follow-up de venda pendiente para Pedido No.:93 en 07/16/2023 del Cliente: Wonder Woman	09/07/2023	16/07/2023	9		1		luizestevo	09/07/2023 15:11:12
+34	4	93	Cobro pendiente para Pedido No.:93 en 07/09/2023 del Cliente: Rosana Estevo	09/07/2023	18/07/2023	9		2		luizestevo	13/07/2023 21:26:43
+35	8	5	Pedido de Compra No.5 - Fecha Estimada : 07/25/2023	25/07/2023	25/07/2023	2		1		luizestevo	09/07/2023 16:29:26
+36	8	7	Pedido de Compra No.7 - Fecha Estimada : 07/26/2023	26/07/2023	26/07/2023	1		1		luizestevo	09/07/2023 16:29:40
+37	1	97	Follow-up de venda pendiente para Pedido No.:97 en 07/19/2023 del Cliente: Spider Man	12/07/2023	19/07/2023	2		1		nbarrios	12/07/2023 17:29:44
+38	9	103	Cotizacao: Recuerdo del Pedido no.: 103	13/07/2023	12/08/2023	9		1		luizestevo	13/07/2023 12:19:27
+40	9	106	Cotización: Recuerdo de follow-up para la cotización no.: 106	13/07/2023	10/07/2023	9		1		luizestevo	13/07/2023 14:18:05
+41	8	13	Aprobacion de Compra solicitada en 2023-07-13 3:24:43 PM	13/07/2023	18/07/2023	9		1		luizestevo	13/07/2023 15:26:02
+42	8	7	Pedido de Compra No.7 - Fecha Estimada : 2023-07-11	13/07/2023	18/07/2023	1		1			13/07/2023 15:42:40
+43	9	95	Cotización: Recuerdo de follow-up para la cotización no.: 95	10/07/2023	09/08/2023	9		1		luizestevo	13/07/2023 22:37:30
+45	8	15	Aprobación de Compra solicitada en 07/13/2023	13/07/2023	13/07/2023	9		1		luizestevo	13/07/2023 22:40:53
+46	8	16	Aprobación de Compra solicitada en 07/13/2023	13/07/2023	13/07/2023	9		1		luizestevo	13/07/2023 22:41:49
+47	1	107	Regresar Equipo Alquilado del Pedido No.:107 en 07/14/2023 del Cliente: Alejandro Arango	14/07/2023	17/07/2023	9		1		luizestevo	14/07/2023 6:33:41
+48	1	108	Regresar Equipo de Muestra del Pedido No.:108 en 07/14/2023 del Doctor: Abdiel Ortiz	14/07/2023	13/08/2023	9		1		luizestevo	14/07/2023 6:33:56
+49	1	103	Follow-up de venda pendiente para Pedido No.: 103 en 07/20/2023 del Cliente: Rosana Estevo	13/07/2023	20/07/2023	9		1		luizestevo	14/07/2023 7:00:36
+50	6	103	Pagar regalia referente al Pedido No.: 103 para Doctor: Spider Man en 07/28/2023	13/07/2023	28/07/2023	9		2		Luizestevo	09/04/2023 10:39:04
+51	6	109	Pagar regalia referente al Pedido No.: 109 para Doctor: Spider Man en 07/29/2023	14/07/2023	29/07/2023	9		2		luizestevo	14/07/2023 18:33:42
+52	6	110	Pagar regalia referente al Pedido No.: 110 para Doctor: Spider Man en 07/29/2023	14/07/2023	29/07/2023	9		2		luizestevo	14/07/2023 18:54:39
+53	1	114	Follow-up de venda pendiente para Pedido No.: 114 en 07/21/2023 del Cliente: Rosana Estevo	14/07/2023	21/07/2023	9		1		Luizestevo	08/03/2023 14:41:21
+54	1	112	Follow-up de venda pendiente para Pedido No.: 112 en 07/21/2023 del Cliente: Rosana Estevo	14/07/2023	21/07/2023	9		1		luizestevo	14/07/2023 19:34:22
+55	8	17	Aprobación de Compra solicitada en 07/19/2023	19/07/2023	19/07/2023	9		1		luizestevo	19/07/2023 9:48:08
+56	8	18	Aprobación de Compra solicitada en 07/19/2023	19/07/2023	19/07/2023	9		1		luizestevo	19/07/2023 9:48:11
+57	8	19	Aprobación de Compra solicitada en 07/19/2023	19/07/2023	19/07/2023	9		1		luizestevo	19/07/2023 9:48:14
+58	8	20	Aprobación de Compra solicitada en 07/19/2023	19/07/2023	19/07/2023	9		1		luizestevo	19/07/2023 9:48:17
+59	8	21	Aprobación de Compra solicitada en 07/19/2023	19/07/2023	19/07/2023	9		1		Luizestevo	19/07/2023 9:55:13
+60	1	119	Regresar Equipo Alquilado del Pedido No.: 119 en 07/28/2023 del Cliente: Rosana Estevo	28/07/2023	30/07/2023	9		1		Luizestevo	28/07/2023 13:52:54
+61	6	114	Pagar regalia referente al Pedido No.: 114 para Doctor: Spider Man en 07/29/2023	14/07/2023	29/07/2023	9		2		Luizestevo	08/03/2023 14:45:57
+62	1	127	Follow-up de venda pendiente para Pedido No.: 127 en 08/29/2023 del Cliente: Abdiel Ortiz	22/08/2023	29/08/2023	9		1		Luizestevo	22/08/2023 14:55:04
+63	1	130	Follow-up de venda pendiente para Pedido No.: 130 en 08/30/2023 del Cliente: Abdiel Ortiz	23/08/2023	30/08/2023	9		1		Luizestevo	23/08/2023 22:50:40
+64	1	132	Follow-up de venda pendiente para Pedido No.: 132 en 08/31/2023 del Cliente: Abdiel Ortiz	24/08/2023	31/08/2023	9		1		Luizestevo	24/08/2023 11:48:05
+65	1	133	Regresar Equipo de Muestra del Pedido No.: 133 en 08/24/2023 del Doctor: Bolovar Franco	24/08/2023	23/09/2023	2		1		luizestevo	24/08/2023 13:21:19
+66	1	135	Regresar Equipo Alquilado del Pedido No.: 135 en 08/24/2023 del Cliente: Bat Man	24/08/2023	24/08/2023	1		1		luizestevo	24/08/2023 13:25:33
+67	1	136	Follow-up de venda pendiente para Pedido No.: 136 en 08/31/2023 del Cliente: Bat Man	24/08/2023	31/08/2023	3		1		luizestevo	24/08/2023 13:28:36
+68	4	136	Cobro pendiente para Pedido No.:136 en 08/24/2023 del Cliente: Donald Duck	24/08/2023	29/08/2023	3		2		luizestevo	24/08/2023 13:29:08
+69	1	138	Follow-up de venda pendiente para Pedido No.: 138 en 08/31/2023 del Cliente: Cristian Rodriguez	24/08/2023	31/08/2023	2		1		luizestevo	24/08/2023 13:40:25
+70	1	139	Follow-up de venda pendiente para Pedido No.: 139 en 08/31/2023 del Cliente: Aldymarina Lopez	24/08/2023	31/08/2023	9		1		luizestevo	24/08/2023 14:07:24

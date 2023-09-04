@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "New_OrderInvoice",
+    "Attributes": 16781312,
+    "Table": "Orders",
+    "ForeignTable": "Invoices",
+    "Fields": [
+      {
+        "Name": "Order ID",
+        "ForeignName": "Order ID"
+      }
+    ]
+  }
+}
